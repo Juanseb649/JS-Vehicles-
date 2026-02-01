@@ -37,7 +37,7 @@ public class Car extends Vehicle {
     }
 
     public void setFuel(String fuel) {
-        this.pedals = pedals;
+        this.fuel = fuel;
     }
 
     // Polymorphism

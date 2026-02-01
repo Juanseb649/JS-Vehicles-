@@ -1,4 +1,4 @@
-package com.sebastian.crudVehicles.models;
+package com.sebastian.crudVehicles.models; //Vehicle es clase padre
 
 
 public class Vehicle {
